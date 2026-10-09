@@ -1,63 +1,46 @@
+# Oi, eu sou o alexheitorc 🐾
 
-<div align="center">
+```
+ /\_/\
+( o.o )  miau!
+ > ^ <
+```
 
-# Alex Heitor
-
-### Estudante de programação
-
-Aprendendo, praticando e construindo projetos um passo de cada vez.
-
-[![GitHub](https://img.shields.io/badge/GitHub-alexheitorc-181717?style=flat&logo=github)](https://github.com/alexheitorc)
-
-</div>
+Estou aprendendo a programar, e gatos são parte do meu ambiente de trabalho.
 
 ---
 
-## Sobre mim
+## 🛠️ Tecnologias
 
-- 💻 Estudante e iniciante na programação.
-- 🐍 Aprendendo Python.
-- ⚙️ Explorando C++.
-- 🌐 Estudando HTML e CSS.
-- 🚀 Buscando evoluir por meio de projetos práticos.
+![C++](https://img.shields.io/badge/C++-iniciante-00599C?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-iniciante-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-iniciante-1572B6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-intermediário-3776AB?style=flat-square)
 
-## Tecnologias
+---
 
-<div align="center">
+## 🐱 Meu gatinho dos commits
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-
-</div>
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexheitorc&show_icons=true&hide_title=true&theme=default)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexheitorc&layout=compact&theme=default)
-
-</div>
-
-## Meu gatinho 🐈
-
-<div align="center">
+Este gatinho é gerado automaticamente a partir da minha atividade real no GitHub. Se eu fico muito tempo sem commitar, ele fica com fome. 😿
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet-light.svg">
-  <img alt="Gatinho animado do meu perfil GitHub" src="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet.svg" width="100%">
+  <img alt="Gatinho animado que reage aos meus commits" src="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet.svg" width="100%">
 </picture>
 
-</div>
+<sub>Feito com [YourTomo](https://github.com/prsdx/YourTomo).</sub>
 
 ---
 
-<div align="center">
+## 📂 Projetos
 
-*Sempre aprendendo. Sempre evoluindo.* ✨
+Meus repositórios estão [aqui](https://github.com/alexheitorc?tab=repositories).
 
-</div>
+---
+
+## 📫 Contato
+
+[github.com/alexheitorc](https://github.com/alexheitorc)
+
+<sub>Feito com 💙 e muitos miados.</sub>
