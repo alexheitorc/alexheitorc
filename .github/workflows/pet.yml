@@ -1,9 +1,8 @@
 name: My YourTomo cat
-
 on:
   schedule:
-    - cron: "23 */6 * * *"
-  workflow_dispatch:
+    - cron: '23 */6 * * *'   # roda a cada 6 horas
+  workflow_dispatch:         # permite rodar manualmente
 
 permissions:
   contents: write
@@ -12,11 +11,9 @@ jobs:
   pet:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate animated cat
-        uses: prsdx/github-pet@v1
+      - uses: actions/checkout@v4
+      - uses: prsdx/github-pet@v1
         with:
           username: alexheitorc
           timezone-offset-minutes: "-180"
+          pet-name: "Mingau"   # opcional: dê o nome que quiser ao gato
