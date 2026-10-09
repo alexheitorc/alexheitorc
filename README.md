@@ -9,8 +9,8 @@
 ### Sobre mim
 
 - **Nível:** Iniciante na área de programação.
-- **Foco atual:** Aprimorando minhas habilidades intermediárias em **Python**.
-- **Estudando:** C++, HTML5 e CSS3 para web e lógica de programação.
+- **Foco atual:** Aprimorando minhas habilidades em **C++**.
+- **Estudando:** C++, HTML5, CSS3 e Python 
 
 ---
 
