@@ -8,9 +8,9 @@
 
 ### Sobre mim
 
-- **Nível:** Iniciante na área de programação.
-- **Foco atual:** Aprimorando minhas habilidades em **C++**.
-- **Estudando:** C++, HTML5, CSS3 e Python 
+**Nível:** Iniciante na área de programação.<br>
+**Foco atual:** Aprimorando minhas habilidades em **C++**.<br>
+**Estudando:** C++, HTML5, CSS3 e Python
 
 ---
 
@@ -25,14 +25,18 @@
 
 ### Atividade
 
-![Gatinho dos commits](https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet-badge.svg)
-
-<sub>Gerado a partir da minha atividade real no GitHub, com [YourTomo](https://github.com/prsdx/YourTomo).</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet-light.svg">
+  <img alt="Gatinho dos commits" src="https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet.svg" width="70%">
+</picture>
 
 ---
 
 ### Como me encontrar
 
-- **GitHub:** [@alexheitorc](https://github.com/alexheitorc)
+**LinkedIn:** [Alex Heitor Carvalho Barbosa](https://www.linkedin.com/in/alex-heitor-carvalho-barbosa-66b434442/)<br>
+**beecrowd:** [Meu perfil](https://judge.beecrowd.com/pt/profile/1244140)<br>
+**GitHub:** [@alexheitorc](https://github.com/alexheitorc)
 
 </div>
