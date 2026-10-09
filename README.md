@@ -1,21 +1,20 @@
 <div align="center">
 
-# 🐾 Olá, eu sou o Alex Heitor! 
+# Olá, eu sou o Alex Heitor
 
-*Desenvolvedor em aprendizado contínuo & entusiasta de gatos 🐱*
-
----
-
-### 🐱 Sobre mim
-
-- 🎓 **Nível:** Iniciante na área de programação.
-- 🐍 **Foco atual:** Aprimorando minhas habilidades intermediárias em **Python**.
-- 🛠️ **Estudando:** C++, HTML5 e CSS3 para web e lógica de programação.
-- 🐈 **Curiosidade:** Apaixonado por gatos e tecnologia!
+*Desenvolvedor em aprendizado contínuo*
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### Sobre mim
+
+- **Nível:** Iniciante na área de programação.
+- **Foco atual:** Aprimorando minhas habilidades intermediárias em **Python**.
+- **Estudando:** C++, HTML5 e CSS3 para web e lógica de programação.
+
+---
+
+### Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,14 +23,15 @@
 
 ---
 
-### 🐾 Gráfico de Contribuições (Com Gatinho!)
+### Atividade
 
-<!-- O gatinho abaixo passeia pelas suas contribuições do GitHub -->
-![](https://raw.githubusercontent.com/alexheitorc/alexheitorc/output/github-contribution-grid-snake.svg)
+![Gatinho dos commits](https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet-badge.svg)
+
+<sub>Gerado a partir da minha atividade real no GitHub, com [YourTomo](https://github.com/prsdx/YourTomo).</sub>
 
 ---
 
-### 📬 Como me encontrar
+### Como me encontrar
 
 - **GitHub:** [@alexheitorc](https://github.com/alexheitorc)
 
