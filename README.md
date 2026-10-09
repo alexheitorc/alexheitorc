@@ -1,24 +1,38 @@
-# Oi, eu sou o alexheitorc 🐾
+<div align="center">
 
-Estou aprendendo a programar, e gatos são parte do meu ambiente de trabalho.
+# 🐾 Olá, eu sou o Alex Heitor! 
 
-## 🐾 Tecnologias
+*Desenvolvedor em aprendizado contínuo & entusiasta de gatos 🐱*
 
-![C++](https://img.shields.io/badge/C++-iniciante-30363d?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-iniciante-30363d?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-iniciante-30363d?style=flat-square)
-![Python](https://img.shields.io/badge/Python-intermediário-30363d?style=flat-square)
+---
 
-## 🐈‍⬛ Gatinho dos commits
+### 🐱 Sobre mim
 
-![Gatinho dos commits](https://raw.githubusercontent.com/alexheitorc/alexheitorc/main/dist/pet-badge.svg)
+- 🎓 **Nível:** Iniciante na área de programação.
+- 🐍 **Foco atual:** Aprimorando minhas habilidades intermediárias em **Python**.
+- 🛠️ **Estudando:** C++, HTML5 e CSS3 para web e lógica de programação.
+- 🐈 **Curiosidade:** Apaixonado por gatos e tecnologia!
 
-<sub>Gerado a partir da minha atividade real no GitHub, com [YourTomo](https://github.com/prsdx/YourTomo).</sub>
+---
 
-## 🐾 Projetos
+### 🧰 Tecnologias e Ferramentas
 
-Meus repositórios estão [aqui](https://github.com/alexheitorc?tab=repositories).
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🐾 Contato
+---
 
-[github.com/alexheitorc](https://github.com/alexheitorc)
+### 🐾 Gráfico de Contribuições (Com Gatinho!)
+
+<!-- O gatinho abaixo passeia pelas suas contribuições do GitHub -->
+![](https://raw.githubusercontent.com/alexheitorc/alexheitorc/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📬 Como me encontrar
+
+- **GitHub:** [@alexheitorc](https://github.com/alexheitorc)
+
+</div>
